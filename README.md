@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/claude-cognition.jpeg" alt="Claude Cognition" />
+  <img src="assets/claude-cognition.jpeg" alt="Claude Cognition" width="600" />
 </p>
 
 # Claude Cognition
