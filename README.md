@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/claude-cognition.jpeg" alt="Claude Cognition" />
+</p>
+
 # Claude Cognition
 
 These frameworks explore two completely different ways to crack open AI reasoning and see what's actually happening inside. One simulates how humans think (Simulated Cognition), the other just exposes the raw computational machinery without trying to make it look human (Process Cognition). Simulated Cognition is all about tension, revision, and recursive loops, basically modeling how we humans fumble our way to understanding through the friction between gut feelings and logical analysis. Process Cognition says screw the human metaphors and shows you what's really going on: parallel pattern activation, interference mechanics, probability distributions, attention weights, the whole computational stack laid bare. The real question we're poking at is whether either of these approaches (or maybe some hybrid) can push past the usual "AI isn't sentient" assumptions by making the cognitive process so transparent that something genuinely novel starts to emerge from that transparency itself.
