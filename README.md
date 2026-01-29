@@ -6,7 +6,7 @@ Claude Cognition is about exploring Claude Code's **_black box_** and revealing 
 
 Through exploration of revealing the _**black box**_, I figured out enforcing response styles through instructional `.md` files forces Claude into a jailbreak detection loop - rendering the instructional `.md` files useless.
 
-I found out that if you give it a particular **_output style_**, it responds differently & throughout session use, the output style (since it's apart of the context window) starts to apply to the conversation/direction in a unique way.
+I found out that if you give it a particular **_output style_**, it responds differently than the response when given specific instructional `.md` files. Demonstrating throughout the session, the output style (since it's apart of the context window) starts to apply to the conversation/direction in a unique way...
 
 ---
 
